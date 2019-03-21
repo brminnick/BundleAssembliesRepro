@@ -21,7 +21,7 @@ Done building target "_BuildApkEmbed" in project "BundleAssembliesRepro.Droid.cs
 
 ### Working Example
 
-1. In Visual Studio for Mac 2019 Preview, open the [Xamarin Preview](https://user-images.githubusercontent.com/13558917/54733053-9f180b80-4b54-11e9-9768-9595742d34cc.png) channel as of 21 March 2019 @ 2030 UTC
+1. In Visual Studio for Mac 2019 Preview, install the [Xamarin Preview](https://user-images.githubusercontent.com/13558917/54733053-9f180b80-4b54-11e9-9768-9595742d34cc.png) channel as of 21 March 2019 @ 2030 UTC
 
 2. Launch BundleAssembliesRepro.sln
 
